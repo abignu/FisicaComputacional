@@ -2,6 +2,7 @@
 En este repositorio se recogen todos los programas hechos en la asignatura Física Computacional del Grado en Física de la Universidad de Granada por Agustín Bignú
 
 Programas:
+
 Modelo de Ising: se utiliza el modelo de Ising y procesos de Markov para modelar el comportamiento de un sólido paramagnético en su temperatura de Transición. Se simula la ley de Curie.
 
 Ec. de Schroedinger: se resuelve la ecuación de Schroedinger para una barrera de potencial. Luego hay otro programa en el que se resuelve para un oscilador armónico cuántico.
